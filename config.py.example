@@ -1,0 +1,7 @@
+GR_USER = "<grafana_admin_user>"
+GR_PASS = "<grafana_admin_pass>"
+AD_SUFFIX = "@" # delimeter for separate team name ad attribute
+LDAP_SERVER = "<127.0.0.2>"
+LDAP_USER = "<user>"
+LDAP_PASS = "<pass>"
+DSN = "<>"
